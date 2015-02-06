@@ -34,6 +34,7 @@
     "handlebars": "^2.0.0",
     "inquirer": "0.8.0",
     "insight": "^0.5.0",
+    "inherits": "2.0.0",
     "is-root": "^1.0.0",
     "junk": "^1.0.0",
     "lockfile": "^1.0.0",
